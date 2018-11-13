@@ -12,4 +12,4 @@
 - Установка всех необходимых библиотек:
 ---------------------------------
 ```bash
-python3 -m pip install -r requirements.txt
+pip install -r requirements.txt
